@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Product Sales DirectLake Model"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "17d2209c-1e6c-8883-4263-a065630271e9"
+  }
+}
